@@ -19,6 +19,7 @@ There is starter code in this repo. You're welcome to modify as you see fit.
 
 Make sure it works on mobile!
 
+**Concept:**
 ![](widget-mockup.png)
 
 
