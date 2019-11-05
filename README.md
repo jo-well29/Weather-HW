@@ -1,4 +1,6 @@
-![](weather-widget.gif)
+
+
+<img src="weather-widget.gif" alt="weather-widget" width="420px">
 
 # Weather Widget
 
